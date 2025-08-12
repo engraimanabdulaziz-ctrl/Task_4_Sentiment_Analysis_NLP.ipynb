@@ -5,4 +5,4 @@ This notebook includes:
 - A pretrained model using TextBlob
 to predict sentiment of short text inputs (positive/negative/neutral).
 
-Created by Engr Aiman Abdul Aziz (VP) – AI/ML Internship 2025
+Created by Aiman Abdul Aziz – AI/ML Internship 2025
